@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b2308bf-b542-488e-93f8-456cf11c9eb4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000264201832738" />
+      <entry key="S2" value="1.0716941890141354" />
+      <entry key="S5" value="1.348492703692947" />
+      <entry key="S10" value="1.5909459224419387" />
+      <entry key="S30" value="2.1051719763860057" />
+      <entry key="S60" value="3.3995905073577553" />
+      <entry key="M2" value="6.493023951174311" />
+      <entry key="M5" value="14.627319274608192" />
+      <entry key="M10" value="24.152746464433314" />
+      <entry key="M15" value="31.458580934617736" />
+      <entry key="M30" value="45.6943065773956" />
+      <entry key="H1" value="58.34654935995158" />
+      <entry key="H2" value="67.06109034297243" />
+      <entry key="H4" value="72.21540777188514" />
+      <entry key="D1" value="76.98855694353867" />
+      <entry key="W1" value="77.8542988609448" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.200770110085176E-84" />
+      <entry key="S2" value="1.0468030207195243E-21" />
+      <entry key="S5" value="4.05458105565772E-9" />
+      <entry key="S10" value="6.367561626505196E-5" />
+      <entry key="S30" value="0.04051256335071295" />
+      <entry key="S60" value="0.255023977511093" />
+      <entry key="M2" value="1.0835992058076651" />
+      <entry key="M5" value="4.414541718037383" />
+      <entry key="M10" value="9.42059484950412" />
+      <entry key="M15" value="13.369490274259329" />
+      <entry key="M30" value="20.70441199478647" />
+      <entry key="H1" value="26.8684824679104" />
+      <entry key="H2" value="30.97281996076706" />
+      <entry key="H4" value="33.35712125813949" />
+      <entry key="D1" value="35.54023268378883" />
+      <entry key="W1" value="35.933828152128605" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.4688492776036502E-23" />
+      <entry key="MS500" value="3.222911454818221E-5" />
+      <entry key="S2" value="0.11969843176932482" />
+      <entry key="S5" value="0.6450695455056966" />
+      <entry key="S10" value="1.1353941000883436" />
+      <entry key="S30" value="1.941232216802055" />
+      <entry key="S60" value="3.4955535773675566" />
+      <entry key="M2" value="7.4236709981559255" />
+      <entry key="M5" value="18.898957083056754" />
+      <entry key="M10" value="33.449226699288175" />
+      <entry key="M15" value="44.71708737988567" />
+      <entry key="M30" value="66.31585939768135" />
+      <entry key="H1" value="85.16170578762794" />
+      <entry key="H2" value="98.00321895049183" />
+      <entry key="H4" value="105.55600360091965" />
+      <entry key="D1" value="112.52585446229631" />
+      <entry key="W1" value="113.78770303189742" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IVqYZDcFgyZ5nGF4FkjwR0InSk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.firstSpring [clean].executor": "Run",
+    "Maven.firstSpring [install].executor": "Run",
+    "Maven.firstSpring [org.springframework.boot:spring-boot-maven-plugin:4.1.1:build-image].executor": "Run",
+    "Maven.firstSpring [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.Startup.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/luciano/Projects/Java/ecommerce-masterclass",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Startup" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="firstSpring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.embarkx.firstspring.Startup" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b2308bf-b542-488e-93f8-456cf11c9eb4" name="Changes" comment="" />
+      <created>1787860131970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787860131970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/embarkx/firstspring/service/CartService.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/embarkx/firstspring/controller/CartController.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/embarkx/firstspring/service/CartService.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
