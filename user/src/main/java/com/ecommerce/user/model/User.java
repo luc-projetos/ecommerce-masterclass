@@ -1,50 +1,40 @@
 package com.ecommerce.user.model;
 
-import jakarta.persistence.*;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.hibernate.annotations.CreationTimestamp;
-import org.hibernate.annotations.UpdateTimestamp;
+import org.springframework.data.annotation.CreatedDate;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.annotation.LastModifiedDate;
+import org.springframework.data.mongodb.core.index.Indexed;
+import org.springframework.data.mongodb.core.mapping.Document;
+
 import java.time.LocalDateTime;
 
 @Data
-@AllArgsConstructor
-@NoArgsConstructor
-@Entity
-@Table(name = "USER_TB")
+@Document(collection = "USERS")
 public class User {
 
     @Id
-    @Column(name = "ID")
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    private String id;
 
-    @Column(name = "FIRST_NAME")
     private String firstName;
 
-    @Column(name = "LAST_NAME")
     private String lastName;
 
-    @Column(name = "EMAIL")
+    @Indexed(unique = true)
     private String email;
 
-    @Column(name = "PHONE")
     private String phone;
 
-    @Enumerated(EnumType.STRING)
-    @Column(name = "USER_ROLE")
     private UserRole role = UserRole.CUSTOMER;
 
-    @CreationTimestamp
-    @Column(name = "CREATED_AT")
+    @CreatedDate
     private LocalDateTime createdAt;
 
-    @UpdateTimestamp
-    @Column(name = "UPDATED_AT")
+    @LastModifiedDate
     private LocalDateTime updateAt;
 
-    @OneToOne(cascade = CascadeType.ALL, orphanRemoval = true)
-    @JoinColumn(name="address_id", referencedColumnName = "id")
     private Address address;
 }

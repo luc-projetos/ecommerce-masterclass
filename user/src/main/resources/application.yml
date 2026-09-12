@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: userApplication
+  mongodb:
+    uri: mongodb://root:789789@localhost:27017/userdb?authSource=admin
+
+server:
+  port: 8082
+
